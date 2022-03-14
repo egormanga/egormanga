@@ -1,13 +1,17 @@
 <div align="center">
 	<h3>My projects you may want to see:</h3>
 	<table>
-		<th><a href="https://github.com/egormanga/Slang" target="_blank">
-			<img src="Slang.png" alt="Slang" width=256 />
-			<p>https://github.com/egormanga/Slang</p>
+		<th width="33%"><a href="https://github.com/egormanga/Slang" target="_blank">
+			<img src="Slang.png" alt="Slang" />
+			<p>Slang</p>
 		</a></th>
-		<th><a href="https://github.com/egormanga/pycraft" target="_blank">
-			<img src="PyCraft.png" alt="PyCraft" width=64 />
-			<p>https://github.com/egormanga/pycraft</p>
+		<th width="33%"><a href="https://github.com/egormanga/pycraft" target="_blank">
+			<img src="PyCraft.png" alt="PyCraft" />
+			<p>PyCraft</p>
+		</a></th>
+		<th width="33%"><a href="https://github.com/egormanga/gnome-extension-huawei-wmi" target="_blank">
+			<img src="https://github.com/egormanga/gnome-extension-huawei-wmi/raw/master/screenshot.png" alt="Huawei WMI controls" />
+			<p>Huawei WMI controls</p>
 		</a></th>
 	</table>
 </div>
