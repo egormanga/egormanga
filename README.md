@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>My projects you may want to see:</h3>
+	<h3>My projects you might want to see:</h3>
 	<table>
 		<th width="33%"><a href="https://github.com/egormanga/Slang" target="_blank">
 			<img src="Slang.png" alt="Slang" />
