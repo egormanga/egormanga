@@ -2,11 +2,11 @@
 	<h3>My projects you might want to see:</h3>
 	<table>
 		<th width="33%"><a href="https://github.com/egormanga/Slang" target="_blank">
-			<img src="Slang.png" alt="Slang" />
+			<img src="https://github.com/egormanga/Slang/raw/master/Slang.png" alt="Slang" />
 			<p>Slang</p>
 		</a></th>
 		<th width="33%"><a href="https://github.com/egormanga/pycraft" target="_blank">
-			<img src="PyCraft.png" alt="PyCraft" />
+			<img src="https://github.com/egormanga/pycraft/raw/master/PyCraft.png" alt="PyCraft" />
 			<p>PyCraft</p>
 		</a></th>
 		<th width="33%"><a href="https://github.com/egormanga/gnome-extension-huawei-wmi" target="_blank">
